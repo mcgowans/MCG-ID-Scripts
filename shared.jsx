@@ -19,3 +19,4 @@
 
 
 #include '_shared/conversions.jsx'
+#include '_shared/specialMarks.jsx'
